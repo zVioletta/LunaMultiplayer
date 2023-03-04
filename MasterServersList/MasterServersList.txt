@@ -24,3 +24,5 @@ ms-nightly.lmp.dasskelett.dev:8750
 lmp.nightshade.fun:8700
 #Nightshade Nightly. List: https://lmp.nightshade.fun/nightly or http://lmp.nightshade.fun:8751/
 lmp.nightshade.fun:8750
+#Taco. List: https://187.220.11.249:8700
+187.220.11.249:8700
